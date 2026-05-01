@@ -11,12 +11,12 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## Sobre mi
+## About me
  
-- 📲 Junior FrontEnd and Backend developer
-- Systems Analysis student who, set to graduate in December 2026.
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
+- 📲 Junior FrontEnd and Backend developer.
+- 💻 Systems Analysis Student | Graduating Dec 2026
+- 🚩 Main Goal: Providing solutions and improving processes to help grow the company.
+- 🚩My Vision: I don't want to be just an average worker; I aim to make a major contribution through my knowledge, strengths, and continuous learning.
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br>
 
