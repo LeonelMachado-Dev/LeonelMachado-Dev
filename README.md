@@ -6,25 +6,23 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 
 <img src="https://imgur.com/eIgjD8j.jpeg">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+![Static Badge](https://img.shields.io/badge/Junior-Developer-blue)
+![Static Badge](https://img.shields.io/badge/Don't_forget_to_follow_me!-red)
 
 ## About me
  
 - 📲 Junior FrontEnd and Backend developer.
-- 💻 Systems Analysis Student | Graduating Dec 2026
-- 🚩 Main Goal: Providing solutions and improving processes to help grow the company.
-- 🚩My Vision: I don't want to be just an average worker; I aim to make a major contribution through my knowledge, strengths, and continuous learning.
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 💻 Systems Analysis Student at IUTEPI | Graduating Dec 2026
+- 🚩 Main Goal: Providing solutions and improving processes to help grow the company wherever i am.
+- 🚩 My Vision: I don't want to be just an average worker; I aim to make a major contribution through my knowledge, strengths, and continuous learning.
+- 📖 I'm also a writer with 4 books currently available on Inkspired, Wattpad, and Inkitt. I use the pseudonym Alejandro Audittore for my hobbies.
 <br>
 
-## Proyectos *bombitas*
+## Developed projects
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Proyect AUDITTANIMUS</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
@@ -35,7 +33,7 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Project AUDITTANIMUS was born from the wish to bring the Animus database to real life. Using Assassin's Creed 2 as inspiration, this has been developed for everyone who wants to feel like an assassin from Ubisoft’s beloved franchise. It’s so nostalgic!</p>
 </div>
                                                                                       
 </td>
