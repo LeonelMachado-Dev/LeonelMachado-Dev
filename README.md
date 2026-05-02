@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, i'm Leonel Machado! 👋</h1>
+<h1 align="center">Hello i'm Leonel Machado! 👋</h1>
 Systems Analysis student seeking to support companies, acquire new knowledge, and achieve a main goal: providing solutions, improving processes, and growing the company wherever I am. I don't just want to be an average worker, as I also want to make a major contribution with my knowledge and strengths.
 <p>
 </div>
@@ -89,7 +89,7 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>A two-level demo featuring a journey from a empty valley to a mysterious desert. 70% of the artwork is original (drawn from scratch). This project serves as a preview of how Godot can bring concepts to life, turning small sparks into great games.</p>
 </div>
                                                                                       
 </td>  
