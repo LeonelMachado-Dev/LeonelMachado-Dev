@@ -4,7 +4,7 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <p>
 </div>
 
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
+<img src="https://imgur.com/eIgjD8j.jpeg">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
