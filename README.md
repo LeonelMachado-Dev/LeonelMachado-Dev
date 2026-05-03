@@ -85,8 +85,9 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+<a href="https://github.com/LeonelMachado-Dev/LeonelMachado-Dev/blob/main/certifications-Certificaciones/.pdf" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Ver_Certificado-Expoferia-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
 </a>
 </p>
 <p>A two-level demo featuring a journey from a empty valley to a mysterious desert. 70% of the artwork is original (drawn from scratch). This project serves as a preview of how Godot can bring concepts to life, turning small sparks into great games.</p>
