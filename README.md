@@ -85,7 +85,7 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/LeonelMachado-Dev/LeonelMachado-Dev/blob/main/certifications-Certificaciones/.pdf" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/LeonelMachado-Dev/LeonelMachado-Dev/blob/main/Certifications-Certificaciones/3er%20cuatrimestre_Expo%20Godot%20(2025).pdf" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Ver_Certificado-Expoferia-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 </a>
