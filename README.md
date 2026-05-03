@@ -80,7 +80,7 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <td width="50%">
 <h3 align="center">Project Super Pixel</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/sqOLH53.png" width="400" alt="Super Pixel Banner"></a>
+<a href="https://github.com/LeonelMachado-Dev/Project-Super-Pixel" target="_blank"><img src="https://i.imgur.com/sqOLH53.png" width="400" alt="Super Pixel Banner"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
