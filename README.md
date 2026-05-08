@@ -24,9 +24,9 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <td width="50%">
 <h3 align="center">Project AUDITTANIMUS</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/xFCDTkc.png" width="400" alt="AUDITTANIMUS Banner"></a>
+<a href="https://github.com/LeonelMachado-Dev/Project_AUDITTANIMUS" target="_blank"><img src="https://i.imgur.com/xFCDTkc.png" width="400" alt="AUDITTANIMUS Banner"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/LeonelMachado-Dev/Project_AUDITTANIMUS" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
@@ -42,10 +42,10 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <br>
 <h3 align="center">Project MADAI</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/3ZEOtEt.png" width="400" alt="Me As Developer AI"></a>
+<a href="https://github.com/LeonelMachado-Dev/Project-MADAI" target="_blank"><img src="https://i.imgur.com/3ZEOtEt.png" width="400" alt="Me As Developer AI"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/LeonelMachado-Dev/Project-MADAI" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/LeonelMachado-Dev/LeonelMachado-Dev/blob/main/Certifications-Certificaciones/Certificado%20MADAI_ExpoFeria%20(2026).pdf" target="_blank">
@@ -63,9 +63,9 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <td width="50%">
 <h3 align="center">DexGym!</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/wC2ymFG.png" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/LeonelMachado-Dev/DexGym" target="_blank"><img src="https://i.imgur.com/wC2ymFG.png" width="400" alt="DexGym! Banner"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/LeonelMachado-Dev/DexGym" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
@@ -82,7 +82,7 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <div align="center">
 <a href="https://github.com/LeonelMachado-Dev/Project-Super-Pixel" target="_blank"><img src="https://i.imgur.com/sqOLH53.png" width="400" alt="Super Pixel Banner"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<a href="https://github.com/LeonelMachado-Dev/Project-Super-Pixel" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/LeonelMachado-Dev/LeonelMachado-Dev/blob/main/Certifications-Certificaciones/3er%20cuatrimestre_Expo%20Godot%20(2025).pdf" target="_blank" rel="noopener noreferrer">
