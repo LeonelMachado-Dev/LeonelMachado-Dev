@@ -49,7 +49,7 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <img src="https://img.shields.io/badge/Ver_Certificado-Expoferia-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>MADAI (Me As Developer Artificial Intelligence) is an app developed using Python and the KivyMD framework. This was made to show a concept of how AI could help millions of programmers who barely understand how to program. Using Ollama and the Phi-3 Mini AI model, we give a preview of how this could help devs around the world.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
