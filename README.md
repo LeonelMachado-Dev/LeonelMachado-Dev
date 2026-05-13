@@ -48,7 +48,7 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <a href="https://github.com/LeonelMachado-Dev/LeonelMachado-Dev/blob/main/Certifications-Certificaciones/Certificado%20MADAI_ExpoFeria%20(2026).pdf" target="_blank">
 <img src="https://img.shields.io/badge/Ver_Certificado-Expoferia-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
-<a href="https://github.com/LeonelMachado-Dev/LeonelMachado-Dev/blob/main/Certifications-Certificaciones/Certificado%20MADAI_ExpoFeria%20(2026).pdf" target="_blank">
+<a href="https://github.com/LeonelMachado-Dev/LeonelMachado-Dev/blob/main/Certifications-Certificaciones/2nd%20certification%20of%20MADAI%20(Expoferia%202026-Mayo).pdf" target="_blank">
 <img src="https://img.shields.io/badge/Ver_2do_Certificado-Expoferia-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 </p>
