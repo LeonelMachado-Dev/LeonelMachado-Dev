@@ -48,6 +48,9 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <a href="https://github.com/LeonelMachado-Dev/LeonelMachado-Dev/blob/main/Certifications-Certificaciones/Certificado%20MADAI_ExpoFeria%20(2026).pdf" target="_blank">
 <img src="https://img.shields.io/badge/Ver_Certificado-Expoferia-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
+<a href="https://github.com/LeonelMachado-Dev/LeonelMachado-Dev/blob/main/Certifications-Certificaciones/Certificado%20MADAI_ExpoFeria%20(2026).pdf" target="_blank">
+<img src="https://img.shields.io/badge/Ver_2do_Certificado-Expoferia-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
 </p>
 </p>MADAI (Me As Developer Artificial Intelligence) is an app developed using Python and the KivyMD framework. This was made to show a concept of how AI could help millions of programmers who barely understand how to program. Using Ollama and the Phi-3 Mini AI model, we give a preview of how this could help devs around the world.</p>
 </div>                                                             
