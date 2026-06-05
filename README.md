@@ -68,6 +68,9 @@ Systems Analysis student seeking to support companies, acquire new knowledge, an
 <a href="https://github.com/LeonelMachado-Dev/DexGym" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
+<a href="https://github.com/LeonelMachado-Dev/LeonelMachado-Dev/blob/main/Certifications-Certificaciones/Certificado 1 - DexGym.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Ver_Certificado-Expoferia-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+</a>
 </p>
 <p>Gym management system developed in C# with MVC architecture, focused on membership control and personalized user experiences.</p>
 </div>
